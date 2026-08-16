@@ -306,7 +306,3 @@ to:
 > **"What process launched it, what did it execute, and what happened around it?"**
 
 This is a fundamental concept in **endpoint threat hunting and detection engineering**.
-
----
-Day 08 ✅ Windows Process Hunting
-```
