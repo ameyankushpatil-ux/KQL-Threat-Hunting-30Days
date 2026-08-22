@@ -55,22 +55,6 @@ DeviceLogonEvents
           ActionType,
           RemoteIP,
           RemoteDeviceName
-```
-
-### Correction
-
-The original query used:
-
-```text
-LongonType
-```
-
-The correct field is:
-
-```text
-LogonType
-```
-
 ---
 
 ## 3. Failed / Non-Successful Logons
